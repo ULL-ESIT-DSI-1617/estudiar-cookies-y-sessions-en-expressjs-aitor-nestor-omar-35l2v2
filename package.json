@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/nestor-gm/estudiar-cookies-y-sessions-en-expressjs-aitor-nestor-omar-35l2v2#readme",
   "dependencies": {
+    "cookie": "^0.3.1",
     "cookie-parser": "^1.4.3",
     "express": "^4.15.2",
     "gulp-shell": "^0.6.3"
