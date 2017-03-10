@@ -15,11 +15,7 @@ app.get('/name/:name', function(req, res) {
 
   req.session.name = req.params.name;
 
-  res
-  .send('<p>
-  Vea el valor de esta sesión <a href="/name">aquí</a>
-
-</p>');
+  res.send('<p>Vea el valor de esta sesión <a href="/name">aquí</a></p>');
 
 });
 

@@ -21,6 +21,6 @@
   * [set-cookie](set-cookie.md)
   * [Cookie module](cookie.md)
   * [Cookie expressJS](cookie-express.md)
-  * [Sessions expressJS](sessions.md)
+  * [Sessions expressJS](session.md)
 
 
