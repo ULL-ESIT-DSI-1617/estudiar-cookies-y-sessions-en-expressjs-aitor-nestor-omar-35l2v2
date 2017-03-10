@@ -1,0 +1,30 @@
+{
+  "name": "estudiar-cookies-y-sessions-en-expressjs-aitor-nestor-omar-35l2v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nestor-gm/estudiar-cookies-y-sessions-en-expressjs-aitor-nestor-omar-35l2v2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nestor-gm/estudiar-cookies-y-sessions-en-expressjs-aitor-nestor-omar-35l2v2/issues"
+  },
+  "homepage": "https://github.com/nestor-gm/estudiar-cookies-y-sessions-en-expressjs-aitor-nestor-omar-35l2v2#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "gulp-shell": "^0.6.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^0.12.0"
+  }
+}
