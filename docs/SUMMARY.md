@@ -15,3 +15,13 @@
 	* [Introducción a ExpressJS](expressjs.md)
 	* [ExpressJS avanzado](express_avanzado.md)
 	* [Middlewares en ExpressJS](middleware.md)
+<<<<<<< HEAD
+
+=======
+* [Cookies y Sessions en ExpressJS](cookies-sessions.md)
+  * [HTTP Cookie](http.md)
+	* [set-cookie](set-cookie.md)
+	* [Cookie module](cookie.md)
+	* [Cookie expressJS](cookie-express.md)
+	* [Sessions expressJS](sessions.md)
+>>>>>>> ac4341cea42ad84ad62984f05eb30aba7cf89ff1
