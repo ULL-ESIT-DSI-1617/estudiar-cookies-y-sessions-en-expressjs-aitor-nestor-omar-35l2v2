@@ -6,7 +6,7 @@
  Una vez ejecutado, en la consola del navegador al mostrar las cookies del
  documento (document.cookie) vemos las cookies que hemos añadido.
 
- 
+
 
 */
 
@@ -26,7 +26,7 @@ http.createServer(function(req,res) {
   res.setHeader('Set-Cookie',setCookies);
   res.writeHead(200, { 'Content-Type': 'text/html'});
 
-  fs.createReadStream('./index.html').pipe(res);
+  fs.createReadStream('./res/index.html').pipe(res);
 
 
 }).listen(8080);
