@@ -53,4 +53,4 @@ var setCookie = cookie.serialize('foo', 'bar');
 Para información a cerca de las distintas opciones del .serialize vaya a la guía en [npm](https://www.npmjs.com/package/cookie)
 
 
-Visite los ejemplos [aquí](../src/cookie.js)
+Visite los ejemplos [aquí](https://github.com/ozzrocker95/estudiar-cookies-y-sessions-en-expressjs-aitor-nestor-omar-35l2v2/blob/master/src/cookie.js)

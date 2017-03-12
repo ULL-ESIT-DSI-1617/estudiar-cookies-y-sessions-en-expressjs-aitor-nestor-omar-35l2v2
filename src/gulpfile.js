@@ -10,7 +10,10 @@ gulp.task('session', shell.task([
     'node session-express.js'
 ]));
 
-
 gulp.task('npm-cookie', shell.task([
     'node cookie.js'
+]));
+
+gulp.task('query', shell.task([
+    'node query-string.js'
 ]));
