@@ -24,7 +24,7 @@ Enlace al libro en [gh-pages]()
 
 # Versión GitBook
 
-Enlace al libro en [GitBook]()
+Enlace al libro en [GitBook](https://ozzrocker95.gitbooks.io/estudiar-cookies-y-sessions-en-expressjs-aitor-ne/content/)
 
 # Autores
 * [Aitor Bernal Falcón](https://chinegua.github.io/)
