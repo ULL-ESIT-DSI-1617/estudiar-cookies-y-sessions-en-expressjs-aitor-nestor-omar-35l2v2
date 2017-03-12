@@ -11,7 +11,7 @@ Enlace al GitBook desplegado en el IAAS de la ULL [(Aitor)]()
 
 Enlace al GitBook desplegado en el IAAS de la ULL [(Néstor)]()
 
-Enlace al GitBook desplegado en el IAAS de la ULL [(Omar)](http://10.6.128.26:8081/)
+Enlace al GitBook desplegado en el IAAS de la ULL [(Omar)]()
 
 # Versión HEROKU
 [Heroku](https://devcenter.heroku.com/categories/learning) es una plataforma como servicio de computación en la Nube que soporta distintos lenguajes de programación.

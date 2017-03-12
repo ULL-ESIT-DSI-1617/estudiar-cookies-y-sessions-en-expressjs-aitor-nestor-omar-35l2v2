@@ -22,5 +22,4 @@
   * [Cookie module](cookie.md)
   * [Cookie expressJS](cookie-express.md)
   * [Sessions expressJS](session.md)
-
-
+	* [Query string](query_string.md)
