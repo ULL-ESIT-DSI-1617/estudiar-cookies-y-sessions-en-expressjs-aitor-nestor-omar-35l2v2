@@ -7,7 +7,7 @@ Enlace al [campus virtual](https://campusvirtual.ull.es/1617/course/view.php?id=
 # Versión en IAAS
 El concepto de Infraestructura como Servicio (IaaS, Infrastructure as a Service) es uno de los tres modelos fundamentales en el campo del cloud computing, junto con el de Plataforma como Servicio (PaaS, Platform as a Service) y el de Software como Servicio (SaaS, Software as a Service).
 
-Enlace al GitBook desplegado en el IAAS de la ULL [(Aitor)]()
+Enlace al GitBook desplegado en el IAAS de la ULL [(Aitor)](http://10.6.128.132:8086/)
 
 Enlace al GitBook desplegado en el IAAS de la ULL [(Néstor)]()
 
