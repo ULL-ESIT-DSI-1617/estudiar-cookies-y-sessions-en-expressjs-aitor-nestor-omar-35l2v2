@@ -23,4 +23,4 @@ De esta forma y mediante la configuración del servidor (ej. ```mod rewrite``` e
 ```
 $ npm install --save query-string
 ```
-Un [ejemplo de uso](https://github.com/ozzrocker95/estudiar-cookies-y-sessions-en-expressjs-aitor-nestor-omar-35l2v2/blob/master/src/query-string.js) del módulo **query-string**.
+Un [ejemplo de uso](https://github.com/ULL-ESIT-DSI-1617/estudiar-cookies-y-sessions-en-expressjs-aitor-nestor-omar-35l2v2/blob/master/src/query-string.js) del módulo **query-string**.

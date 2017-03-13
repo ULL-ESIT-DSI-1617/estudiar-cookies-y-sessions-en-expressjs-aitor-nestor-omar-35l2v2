@@ -22,7 +22,7 @@ app.get('/name/:name', function(req, res) {
 
 ```
 
-Un ejemplo del [uso de las cookies en ExpressJS](https://github.com/ozzrocker95/estudiar-cookies-y-sessions-en-expressjs-aitor-nestor-omar-35l2v2/blob/master/src/cookies-express.js)
+Un ejemplo del [uso de las cookies en ExpressJS](https://github.com/ULL-ESIT-DSI-1617/estudiar-cookies-y-sessions-en-expressjs-aitor-nestor-omar-35l2v2/blob/master/src/cookies-express.js)
 
 Para poder comprobar que efectivamente estabamos en la cookie del nombre que le hemos dado (que en este caso es lo que pongamos como :name) debemos abrir la terminal de nuestro navegador y ejecutar el comando siguiente:
 
