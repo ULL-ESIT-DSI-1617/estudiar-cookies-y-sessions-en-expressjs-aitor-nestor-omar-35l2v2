@@ -25,4 +25,4 @@ app.get('/name', function (req, res) {
 });
 
 ```
-Un ejemplo de [sesiones en ExpressJS](https://github.com/ozzrocker95/estudiar-cookies-y-sessions-en-expressjs-aitor-nestor-omar-35l2v2/blob/master/src/session-express.js)
+Un ejemplo de [sesiones en ExpressJS](https://github.com/ULL-ESIT-DSI-1617/estudiar-cookies-y-sessions-en-expressjs-aitor-nestor-omar-35l2v2/blob/master/src/session-express.js)
