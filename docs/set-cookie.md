@@ -72,4 +72,4 @@ Las cookies HttpOnly no son accesibles a través de JavaScript a través de la p
 
 
 
-**Para ejemplos o más información visite la gúia completa de [http cookie](http.md)**
+**Para ejemplos o más información visite la gúia completa de [http cookie](https://github.com/ULL-ESIT-DSI-1617/estudiar-cookies-y-sessions-en-expressjs-aitor-nestor-omar-35l2v2/blob/master/docs/http.md)**
